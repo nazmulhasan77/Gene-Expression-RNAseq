@@ -1,7 +1,5 @@
 # Installation Guide for RNA-Seq Analysis Tools
 
----
-
 ## 1. Prerequisites
 
 Make sure you have the following installed:
